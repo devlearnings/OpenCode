@@ -28,4 +28,13 @@ namespace LINQExamples
         public string StandardDesc { get; set; }
         public IEnumerable<Students> student { get; set; }
     }
+
+    public class Employee
+    {
+        public int ID { get; set; }
+        public string Name { get; set; }
+        public int Salary { get; set; }
+        public int DeptId { get; set; }
+        public int ManagerId { get; set; }
+    }
 }

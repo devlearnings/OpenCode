@@ -6,6 +6,7 @@ namespace LINQExamples
     {
         public static IList<Students> StudentdList;
         public static IList<Standard> StandardList;
+        public static IList<Employee> EmpList;
 
         static Data()
         {
@@ -26,6 +27,14 @@ namespace LINQExamples
                 new Standard{StandardId = 2,  StandardDesc = "VIII"},
                 new Standard{StandardId = 3,  StandardDesc = "IX"},
                 new Standard{StandardId = 4,  StandardDesc = "X"}
+            };
+
+            EmpList = new List<Employee>
+            {
+                new Employee{ID = 1,Name = "Jay", DeptId = 1, Salary = 100, ManagerId = 1},
+                new Employee{ID = 2,Name = "John", DeptId = 1, Salary = 200, ManagerId = 1},
+                new Employee{ID = 2,Name = "Raj", DeptId = 1, Salary = 300, ManagerId = 1},
+                new Employee{ID = 2,Name = "Chris", DeptId = 1, Salary = 400, ManagerId = 1}
             };
         }
     }
