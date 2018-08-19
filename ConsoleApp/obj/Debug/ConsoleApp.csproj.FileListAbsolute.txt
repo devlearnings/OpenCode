@@ -1,0 +1,14 @@
+F:\Users\Jay\Desktop\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+F:\Users\Jay\Desktop\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+F:\Users\Jay\Desktop\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+F:\Users\Jay\Desktop\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+F:\Users\Jay\Desktop\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\Users\Jay\Desktop\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+F:\Users\Jay\Desktop\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\[REPOS]\OpenCode\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\[REPOS]\OpenCode\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\[REPOS]\OpenCode\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\[REPOS]\OpenCode\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+E:\[REPOS]\OpenCode\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\[REPOS]\OpenCode\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\[REPOS]\OpenCode\ConsoleApp\obj\Debug\ConsoleApp.pdb
